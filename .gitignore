@@ -1,0 +1,5 @@
+# Remove OSX files
+.DS_Store
+
+#Remove RData files
+*.RData
